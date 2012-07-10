@@ -3,11 +3,12 @@
 		name="Martins Template 2"
 		kind="template"
 		version="2.0.0"
+		url="https://github.com/martinlippert/spring-template-test/zipball/master"
 		category="MARTINS">
 		<description>
 			An overall new template project, made by me
 		</description>
 	</descriptor>
-	<project path="template.zip"/>
+	<project path=""/>
 	<json path="wizard.json"/>
 </template>
